@@ -1,1 +1,1 @@
-# DS-Applied-Capstone-
+# DS-Applied-Capstone-Project
